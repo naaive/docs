@@ -1,0 +1,28 @@
+site_name: My Docs
+plugins:
+  - search
+extra_javascript:
+  - javascripts/extra.js
+theme:
+  name: material
+  language: zh
+  font:
+    text: Inconsolata
+  palette:
+    primary: orange
+nav:
+  - 'Collection':
+      - 'Hashmap': 'collection/hashmap.md'
+      - 'List': 'collection/list.md'
+
+  - 'Concurrency':
+      - 'Volatile': 'concurrency/volatile.md'
+      - 'Synchronized': 'concurrency/synchronized.md'
+  - 'JVM':
+      - 'Class Loader': 'jvm/class_loader.md'
+  - 'Design Pattern':
+      - 'Visitor': 'design_pattern/visitor.md'
+  - 'Mysql':
+      - 'Transaction': 'mysql/transaction.md'
+  - 'MISC':
+      - '儒释道': 'misc/儒释道.md'

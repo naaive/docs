@@ -1,0 +1,1 @@
+document.querySelector("body > div.md-container > footer > div.md-footer-meta.md-typeset").hidden=true
