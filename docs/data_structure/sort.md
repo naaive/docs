@@ -74,7 +74,7 @@ void swap(vector<int> &nums, int i, int j) {
 
 ### 代码
 ```c++
- vector<int> sortArray(vector<int> &nums) {
+vector<int> sortArray(vector<int> &nums) {
     auto len = nums.size();
     for (int i = 0; i < len; ++i) {
         int index = minValIndex(nums, i);
