@@ -46,12 +46,18 @@ vector<int> sortArray(vector<int> &nums) {
     return nums;
 }
 
+/// 插入
+/// \param vector
+/// \param from 已排序区间from
+/// \param to 已排序区间to
 void insert(vector<int> &vector, int from, int to) {
+    int newItem = vector[to + 1];
     for (int i = to; i >= from; --i) {
-        if (vector[i + 1] >= vector[i]) { // 稳定性
+        if (newItem >= vector[i]) { // 稳定性
+            vector[i+1] = newItem;
             break;
         }
-        swap(vector, i, i + 1);
+        vector[i + 1] = vector[i];
     }
 }
 
@@ -68,7 +74,14 @@ void swap(vector<int> &nums, int i, int j) {
 - 空间复杂度：O(1)
 - 稳定性：是（相等数据先后顺序不变）
 
+### vs 冒泡排序
 
+```
+//冒泡                swap(nums, j, j + 1);
+
+//插入                vector[i + 1] = vector[i];
+```
+所以，插入排序比冒泡排序更好
 
 ## 选择排序
 
