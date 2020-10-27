@@ -15,6 +15,7 @@ nav:
       - 'Array': 'data_structure/array.md'
       - 'Linked List': 'data_structure/linked_list.md'
       - 'Recursive': 'data_structure/recursive.md'
+      - 'Sort': 'data_structure/sort.md'
   - 'Collection':
       - 'Hashmap': 'collection/hashmap.md'
       - 'List': 'collection/list.md'

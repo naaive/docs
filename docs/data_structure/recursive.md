@@ -1,6 +1,6 @@
 # Recursive
 
-call itself
+Call itself
 
 ## 手法
 
