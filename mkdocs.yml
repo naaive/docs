@@ -11,10 +11,12 @@ theme:
   palette:
     primary: orange
 nav:
+  - 'Data Structure':
+      - 'Array': 'data_structure/array.md'
+      - 'Linked List': 'data_structure/linked_list.md'
   - 'Collection':
       - 'Hashmap': 'collection/hashmap.md'
       - 'List': 'collection/list.md'
-
   - 'Concurrency':
       - 'Volatile': 'concurrency/volatile.md'
       - 'Synchronized': 'concurrency/synchronized.md'
