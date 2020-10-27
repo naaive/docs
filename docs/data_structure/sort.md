@@ -74,7 +74,7 @@ void swap(vector<int> &nums, int i, int j) {
 - 空间复杂度：O(1)
 - 稳定性：是（相等数据先后顺序不变）
 
-### vs 冒泡排序
+### VS 冒泡排序
 
 ```
 //冒泡                swap(nums, j, j + 1);
