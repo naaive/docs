@@ -24,6 +24,7 @@ nav:
       - 'Synchronized': 'concurrency/synchronized.md'
   - 'JVM':
       - 'Class Loader': 'jvm/class_loader.md'
+      - 'GC': 'jvm/gc.md'
   - 'Design Pattern':
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
