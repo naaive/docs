@@ -29,5 +29,7 @@ nav:
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
+  - 'System Design':
+      - 'Distributed App Crawler': 'system_design/distributed_app_crawler.md'
   - 'MISC':
       - '儒释道': 'misc/儒释道.md'
