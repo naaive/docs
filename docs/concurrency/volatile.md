@@ -40,7 +40,7 @@ Lock前缀指令实际上相当于一个**内存屏障**（内存栅栏）:
 
 
 
-## happens-before原则
+## Happens-before原则
 
 
 - 程序次序规则：单线程按照代码顺序，写在前面的操作，happens-before 于书写在后面的操作
