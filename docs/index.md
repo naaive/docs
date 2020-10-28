@@ -1,3 +1,3 @@
 # Welcome to  My Docs😍
 
-For source code visit [github.com](https://github.com/naaive/docs).
+For source code visit [github](https://github.com/naaive/docs).
