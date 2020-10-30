@@ -30,6 +30,7 @@ nav:
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
   - 'System Design':
+      - 'Distributed System': 'system_design/distributed_system.md'
       - 'Distributed App Crawler': 'system_design/distributed_app_crawler.md'
   - 'MISC':
       - '儒释道': 'misc/儒释道.md'
