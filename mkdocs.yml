@@ -29,6 +29,8 @@ nav:
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
+  - 'Redis':
+      - 'Architecture': 'redis/architecture.md'
   - 'System Design':
       - 'Distributed System': 'system_design/distributed_system.md'
       - 'Distributed App Crawler': 'system_design/distributed_app_crawler.md'
