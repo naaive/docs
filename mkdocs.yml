@@ -33,6 +33,7 @@ nav:
       - 'Architecture': 'redis/architecture.md'
       - 'Persistence': 'redis/persistence.md'
       - 'Leader Follower': 'redis/leader_follower.md'
+      - 'Sentinel': 'redis/sentinel.md'
   - 'System Design':
       - 'Distributed System': 'system_design/distributed_system.md'
       - 'Distributed App Crawler': 'system_design/distributed_app_crawler.md'
