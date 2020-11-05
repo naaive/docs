@@ -40,5 +40,6 @@ nav:
       - 'Distributed App Crawler': 'system_design/distributed_app_crawler.md'
   - 'Network':
       - 'Architecture': 'network/architecture.md'
+      - 'TCP': 'network/tcp.md'
   - 'MISC':
       - '儒释道': 'misc/儒释道.md'
