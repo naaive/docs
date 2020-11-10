@@ -26,6 +26,7 @@ nav:
       - 'Class Loader': 'jvm/class_loader.md'
       - 'GC': 'jvm/gc.md'
   - 'Design Pattern':
+      - 'Singleton': 'design_pattern/singleton.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
