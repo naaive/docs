@@ -30,7 +30,8 @@ nav:
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
   - 'Kafka':
-      - 'architecture': 'kafka/architecture.md'
+      - 'Architecture': 'kafka/architecture.md'
+      - 'Semantics': 'kafka/semantics.md'
   - 'Redis':
       - 'Architecture': 'redis/architecture.md'
       - 'Persistence': 'redis/persistence.md'
