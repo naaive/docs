@@ -29,6 +29,8 @@ nav:
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
+  - 'Kafka':
+      - 'architecture': 'kafka/architecture.md'
   - 'Redis':
       - 'Architecture': 'redis/architecture.md'
       - 'Persistence': 'redis/persistence.md'
