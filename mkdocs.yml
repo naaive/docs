@@ -29,6 +29,7 @@ nav:
       - 'Singleton': 'design_pattern/singleton.md'
       - 'Factory': 'design_pattern/factory.md'
       - 'Builder': 'design_pattern/builder.md'
+      - 'Prototype': 'design_pattern/prototype.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
