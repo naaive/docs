@@ -31,6 +31,7 @@ nav:
       - 'Builder': 'design_pattern/builder.md'
       - 'Prototype': 'design_pattern/prototype.md'
       - 'Proxy': 'design_pattern/proxy.md'
+      - 'Bridge': 'design_pattern/bridge.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
