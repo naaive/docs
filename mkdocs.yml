@@ -25,6 +25,7 @@ nav:
   - 'JVM':
       - 'Class Loader': 'jvm/class_loader.md'
       - 'GC': 'jvm/gc.md'
+      - 'Memory': 'jvm/memory.md'
   - 'Design Pattern':
       - 'Singleton': 'design_pattern/singleton.md'
       - 'Factory': 'design_pattern/factory.md'
