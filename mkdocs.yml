@@ -34,6 +34,7 @@ nav:
       - 'Bridge': 'design_pattern/bridge.md'
       - 'Decorator': 'design_pattern/decorator.md'
       - 'Adapter': 'design_pattern/adapter.md'
+      - 'Facade': 'design_pattern/facade.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
