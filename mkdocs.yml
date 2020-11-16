@@ -33,6 +33,7 @@ nav:
       - 'Proxy': 'design_pattern/proxy.md'
       - 'Bridge': 'design_pattern/bridge.md'
       - 'Decorator': 'design_pattern/decorator.md'
+      - 'Adapter': 'design_pattern/adapter.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
