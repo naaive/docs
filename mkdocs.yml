@@ -35,6 +35,7 @@ nav:
       - 'Decorator': 'design_pattern/decorator.md'
       - 'Adapter': 'design_pattern/adapter.md'
       - 'Facade': 'design_pattern/facade.md'
+      - 'Composite': 'design_pattern/composite.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
