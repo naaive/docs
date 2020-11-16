@@ -36,6 +36,7 @@ nav:
       - 'Adapter': 'design_pattern/adapter.md'
       - 'Facade': 'design_pattern/facade.md'
       - 'Composite': 'design_pattern/composite.md'
+      - 'Flyweight': 'design_pattern/flyweight.md'
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
