@@ -1,4 +1,4 @@
-site_name: Naaive
+site_name: MyDoc.
 plugins:
   - search
 extra_javascript:
