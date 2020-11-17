@@ -41,6 +41,7 @@ nav:
       - 'Visitor': 'design_pattern/visitor.md'
   - 'Mysql':
       - 'Transaction': 'mysql/transaction.md'
+      - 'Explain': 'mysql/explain.md'
   - 'Kafka':
       - 'Architecture': 'kafka/architecture.md'
       - 'Semantics': 'kafka/semantics.md'
