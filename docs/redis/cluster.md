@@ -5,7 +5,7 @@
 
 ## 流程
 
-i.e. hash 分片
+i.e. Range Based 分片
 
 key===CRC16===>16bit====16bit%16384====>x slot
 
