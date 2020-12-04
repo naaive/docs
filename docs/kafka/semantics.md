@@ -25,6 +25,7 @@ Producer会为每一个`topic,partition`维护一个单调递增的seq。
 Broker也会为每个`pid,topic,partition`记录下最新的seq。
 
 当req_seq == message_seq+1时，Message Queue才会接受该消息。因为：
+
 - 消息的seq比Message Queue的seq大一以上，说明中间有数据还没写入，即乱序了。
 - 消息的seq比Message Queue的seq小，那么说明该消息已被保存。
 
