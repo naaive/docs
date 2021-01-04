@@ -58,6 +58,7 @@ cas 交换 lock record address 与 mark word：
 ![lightweightlock_2](lightweightlock_2.png)
 
 退出 synchronized 代码块（解锁时）锁记录的值不为 null，这时使用 cas 将 Mark Word 的值恢复给对象头
+
 - 成功，则解锁成功
 - 失败，轻量级锁进行了锁膨胀或已经升级为重量级锁，进入重量级锁解锁流程
 
