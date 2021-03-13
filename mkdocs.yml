@@ -59,5 +59,7 @@ nav:
       - 'TCP': 'network/tcp.md'
   - 'Skywalking':
       - 'Skywalking': 'skywalking/index.md'
+  - 'Elasticsearch':
+      - 'Elasticsearch': 'elasticsearch/index.md'
   - 'MISC':
       - '儒释道': 'misc/儒释道.md'
