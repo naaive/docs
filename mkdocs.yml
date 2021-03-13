@@ -57,5 +57,7 @@ nav:
   - 'Network':
       - 'Architecture': 'network/architecture.md'
       - 'TCP': 'network/tcp.md'
+  - 'Skywalking':
+      - 'Skywalking': 'skywalking/index.md'
   - 'MISC':
       - '儒释道': 'misc/儒释道.md'
