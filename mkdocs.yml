@@ -16,6 +16,7 @@ nav:
       - 'Linked List': 'data_structure/linked_list.md'
       - 'Recursive': 'data_structure/recursive.md'
       - 'Sort': 'data_structure/sort.md'
+      - 'Bit OP': 'data_structure/bit_op.md' 
   - 'Collection':
       - 'Hashmap': 'collection/hashmap.md'
       - 'List': 'collection/list.md'
